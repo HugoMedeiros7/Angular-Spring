@@ -1,27 +1,25 @@
-# CrudAngular
+## 🚀 Tecnologias
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Development server
+- Angular
+- Java
+- Spring Boot
+- TypeScript
+- HTML
+- CSS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 💻 Projeto
 
-## Code scaffolding
+É uma aplicação web de cadastro (CRUD) com criação, leitura, atualização e exclusão de cursos.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## ▶️ Como executar
 
-## Build
+- Instale as dependências com NPM
+- Abra o cmd, vá na pasta Angular-spring e digite `ng server`
+- Agora você pode acessar [`localhost:4200`](http://localhost:4200/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## :memo: Licença
 
-## Running unit tests
+Esse projeto está sob a licença MIT. Veja o arquivo [![NPM](https://img.shields.io/npm/l/react)](https://github.com/HugoMedeiros7/Angular/blob/master/LICENSE) para mais detalhes.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
